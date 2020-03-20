@@ -1,0 +1,6 @@
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\obj\Debug\MOVIE NIGHT.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\bin\Debug\MOVIE NIGHT.exe.config
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\bin\Debug\MOVIE NIGHT.exe
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\bin\Debug\MOVIE NIGHT.pdb
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\obj\Debug\MOVIE NIGHT.exe
+C:\Users\chri45i4\source\repos\MOVIE NIGHT\MOVIE NIGHT\obj\Debug\MOVIE NIGHT.pdb
